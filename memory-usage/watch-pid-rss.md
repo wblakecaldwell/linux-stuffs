@@ -18,4 +18,4 @@ Here's a crude way to watch a process's memory usage:
 It keeps checking the [RSS memory](https://en.wikipedia.org/wiki/Resident_set_size) for a process, 
 outputting: `<date><tab><rss in kb>`, which can be copy/pasted into [Google Sheets](https://sheets.google.com),
 and used to generate a graph like this:
-![Google Sheets memory usage graph](watch-pid-rss-example.png).
+![Google Sheets memory usage graph](images/watch-pid-rss-example.png).
