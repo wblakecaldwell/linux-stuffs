@@ -25,4 +25,5 @@ for graphing.
     }
     watch_cgo_memory 26032 http://127.0.0.1:12345
 
+Here's an example of two quick graphs generated with Google Sheets: ![Google Sheets memory usage graph](images/watch-cgo-memory-example.png)
 
